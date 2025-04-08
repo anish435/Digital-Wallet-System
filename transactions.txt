@@ -1,0 +1,32 @@
+Transaction ID: TXN1743489775882
+From: amit@upi
+To: priya@upi
+Amount: 1200.0
+Time: Tue Apr 01 12:12:55 IST 2025
+Status: COMPLETED
+Remarks: lol
+----------
+Transaction ID: INT1743491856172899
+From: amit@upi
+To: international@45
+Amount: 10000.0
+Time: Tue Apr 01 12:47:36 IST 2025
+Status: PROCESSING
+Remarks: International Transfer: lol
+----------
+Transaction ID: INT1743496711126788
+From: amit@upi
+To: international@4125689
+Amount: 300.0
+Time: Tue Apr 01 14:08:31 IST 2025
+Status: PROCESSING
+Remarks: International Transfer: lol
+----------
+Transaction ID: TXN1743496878557
+From: anish@upi
+To: amit@upi
+Amount: 10000.0
+Time: Tue Apr 01 14:11:18 IST 2025
+Status: COMPLETED
+Remarks: lol
+----------

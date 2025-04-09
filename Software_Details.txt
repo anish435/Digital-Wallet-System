@@ -1,0 +1,14 @@
+# Software Details for UPI DigitalWallet Project
+
+1. Java Development Kit (JDK)
+   - Version: JDK 18
+
+2. IDE Used
+   - Eclipse IDE 2024-09
+
+3. File Encoding
+   - UTF-8
+
+4. Operating System
+   - Tested on Windows 10/11
+
